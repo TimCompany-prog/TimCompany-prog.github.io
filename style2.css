@@ -27,10 +27,6 @@ header span{
 	margin-right: 5px;
 }
 
-.container{
-	width:65%;
-	margin:0 auto;
-}
 
 nav{
 	width:20%;
@@ -88,18 +84,8 @@ nav{
 }
 
 #content img{
-	width:120px;
-	border-radius: 80px;
-}
-
-#content table{
-	margin:0 auto;
-	padding:5px;
-}
-
-#content table td{
-	border:1px solid black;
-	padding:5px;
+	width:400px;
+	height: 250px;
 }
 
 footer{
